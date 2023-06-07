@@ -5,12 +5,12 @@
       <![CDATA[ashdsadj]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-07T12:51:53 IST" name="Suite" finished-at="2023-06-07T12:51:53 IST" duration-ms="71">
+  <suite started-at="2023-06-07T13:54:16 IST" name="Suite" finished-at="2023-06-07T13:54:24 IST" duration-ms="7853">
     <groups>
     </groups>
-    <test started-at="2023-06-07T12:51:53 IST" name="Test" finished-at="2023-06-07T12:51:53 IST" duration-ms="71">
+    <test started-at="2023-06-07T13:54:16 IST" name="Test" finished-at="2023-06-07T13:54:24 IST" duration-ms="7853">
       <class name="com.actitime.testscript.CustomerModule">
-        <test-method signature="createCust()[pri:0, instance:com.actitime.testscript.CustomerModule@2f7298b]" started-at="2023-06-07T12:51:53 IST" name="createCust" finished-at="2023-06-07T12:51:53 IST" duration-ms="15" status="PASS">
+        <test-method signature="createCust()[pri:0, instance:com.actitime.testscript.CustomerModule@20deea7f]" started-at="2023-06-07T13:54:16 IST" name="createCust" finished-at="2023-06-07T13:54:24 IST" duration-ms="7770" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[ashdsadj]]>
